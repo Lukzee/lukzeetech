@@ -1,0 +1,31 @@
+body {
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    background: #222;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, a:link, a:visited {
+    color: #f30;
+}
+
+hr {
+    background-color: beige;
+    height: 1px;
+    border: none;
+}
+
+a:hover {
+    color: #f90;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+#sidebar {
+    border-right: 1px solid #ccc;
+}
