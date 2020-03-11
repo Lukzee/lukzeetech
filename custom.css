@@ -29,3 +29,7 @@ a:hover {
 #sidebar {
     border-right: 1px solid #ccc;
 }
+
+P {
+    text-align: justify;
+}
